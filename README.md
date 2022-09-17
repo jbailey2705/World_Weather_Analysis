@@ -9,7 +9,7 @@ The purpose of this project is to collect, analyze and visualize weather data ac
 CSV files:
 - [WeatherPy_Database.csv](https://github.com/jbailey2705/World_Weather_Analysis/files/9592210/WeatherPy_Database.csv)
 - [cities.csv](https://github.com/jbailey2705/World_Weather_Analysis/files/9592219/cities.csv)
-Jupyter Notebook files: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
+
 Python: Python v3.7.6, Dependencies: Pandas, Matplotlib, CitiPy, SciPy, Python Requests, APIs, JSON Traversals
 
 ## Weather Database
@@ -31,4 +31,25 @@ Based on travelers criteria, weather preferences was taken into account inorder 
 
 ![Screen Shot 2022-09-17 at 10 53 21 AM](https://user-images.githubusercontent.com/109354592/190868880-32cb91a6-f23d-40e7-a4a6-030a1cf21270.png)
 
+## Vacation Itnerary
+Google Directions API, sample itinerary was generated showing the route around cities in Margate.
 
+![Screen Shot 2022-09-17 at 11 46 01 AM](https://user-images.githubusercontent.com/109354592/190869045-a660366d-d8f8-4a94-bde3-01be8aab0014.png)
+
+## Statistical Analysis
+City data was plotted, & linear regression used to show the relationships for the below variables:
+- Lat. and Maximum Temperature
+- Lat. and Humidity
+- Lat. and Cloudiness
+- Lat. and Wind Speed
+
+### Scatter plots produced.
+Scatter plots were created for each weather parameter against, latitude for all cities to show how different weather parameters change based on latitude.
+
+![Fig1](https://user-images.githubusercontent.com/109354592/190869261-6ab0fbd1-2656-4c42-8e59-31f6f50150a5.jpeg)
+![Fig2](https://user-images.githubusercontent.com/109354592/190869262-5cd27cd5-4e92-48b8-828c-19523c8c523a.jpeg)
+![Fig3](https://user-images.githubusercontent.com/109354592/190869263-183187b0-1581-4689-b5eb-0336fe7959f8.jpeg)
+![Fig4](https://user-images.githubusercontent.com/109354592/190869264-d674d926-1093-4a95-8418-defaa1c92f12.jpeg)
+
+## Linear Regression: Northern and Southern Hemispheres
+Performed Linear regression for the Northern and Southern Hemispheres, on four weather parameters: maximum temperature, humidity, cloudiness, and wind speed.
