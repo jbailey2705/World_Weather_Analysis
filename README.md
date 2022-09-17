@@ -10,3 +10,10 @@ The purpose of this project is to collect, analyze and visualize weather data ac
 CSV files:
 - [WeatherPy_Database.csv](https://github.com/jbailey2705/World_Weather_Analysis/files/9592210/WeatherPy_Database.csv)
 - [cities.csv](https://github.com/jbailey2705/World_Weather_Analysis/files/9592219/cities.csv)
+- 
+Jupyter Notebook files:
+- Weather_Database.ipynb
+- Vacation_Search.ipynb
+- Vacation_Itinerary.ipynb
+
+Python: Python v3.7.6, Dependencies: Pandas, Matplotlib, CitiPy, SciPy, Python Requests, APIs, JSON Traversals
