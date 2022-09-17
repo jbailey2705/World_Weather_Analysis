@@ -56,12 +56,14 @@ Performed Linear regression for the Northern and Southern Hemispheres, on four w
 
 ### Max Temp & Humidity
 
-![Screen Shot 2022-09-17 at 12 51 26 PM](https://user-images.githubusercontent.com/109354592/190870205-f17cc455-1307-4f50-b9d1-14b3b9d54ec9.png)![Screen Shot 2022-09-17 at 12 51 38 PM](https://user-images.githubusercontent.com/109354592/190870207-06d90537-d260-4de0-bf5a-1a36eae37e8a.png)
-![Screen Shot 2022-09-17 at 12 51 48 PM](https://user-images.githubusercontent.com/109354592/190870209-a031c94d-0b6f-4be7-aa36-94e163b7d9e7.png)![Screen Shot 2022-09-17 at 12 51 57 PM](https://user-images.githubusercontent.com/109354592/190870211-61c4d41b-87fd-4362-8fa2-40105cc7165b.png)
+![Screen Shot 2022-09-17 at 12 51 26 PM](https://user-images.githubusercontent.com/109354592/190870404-4da75c8e-9ac0-4742-811e-3f12f44bb480.png)
+![Screen Shot 2022-09-17 at 12 51 38 PM](https://user-images.githubusercontent.com/109354592/190870406-0fcc309d-23d1-4979-9a9a-71e6c1f0dd5d.png)
+![Screen Shot 2022-09-17 at 12 51 48 PM](https://user-images.githubusercontent.com/109354592/190870407-984e03bd-9b4b-4e9a-abe1-be466b66e906.png)
+![Screen Shot 2022-09-17 at 12 51 57 PM](https://user-images.githubusercontent.com/109354592/190870408-14ed9571-6005-4efb-9800-7092775072f9.png)
 
 ### Percent of Cloudiness & Wind Speed
 
-![Screen Shot 2022-09-17 at 12 52 10 PM](https://user-images.githubusercontent.com/109354592/190870248-f7ea0f79-fc90-4042-a42a-b34691a9416c.png)![Screen Shot 2022-09-17 at 12 52 20 PM](https://user-images.githubusercontent.com/109354592/190870250-863bd648-7f53-4de9-97f0-adce54bb4a7d.png)
-![Screen Shot 2022-09-17 at 12 52 30 PM](https://user-images.githubusercontent.com/109354592/190870251-59692ac2-7443-412f-8608-038c767e264e.png)![Screen Shot 2022-09-17 at 12 52 37 PM](https://user-images.githubusercontent.com/109354592/190870252-7988d20a-2666-47a0-b8a2-0ccad1897ce3.png)
-
-
+![Screen Shot 2022-09-17 at 12 52 10 PM](https://user-images.githubusercontent.com/109354592/190870374-8ed46339-6b4d-4622-829f-72d198c17441.png)
+![Screen Shot 2022-09-17 at 12 52 20 PM](https://user-images.githubusercontent.com/109354592/190870376-4add2671-051e-4ec2-a9b1-97b7bda215b3.png)
+![Screen Shot 2022-09-17 at 12 52 30 PM](https://user-images.githubusercontent.com/109354592/190870377-fc235f8f-79d4-4b41-a26f-b7c0acf7155e.png)
+![Screen Shot 2022-09-17 at 12 52 37 PM](https://user-images.githubusercontent.com/109354592/190870378-6e4774f6-fff7-483b-8e64-efae9262597b.png)
