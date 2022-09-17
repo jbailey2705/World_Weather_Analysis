@@ -56,10 +56,7 @@ Performed Linear regression for the Northern and Southern Hemispheres, on four w
 
 ### Max Temp & Humidity
 
-![Screen Shot 2022-09-17 at 12 51 26 PM](https://user-images.githubusercontent.com/109354592/190870404-4da75c8e-9ac0-4742-811e-3f12f44bb480.png)
-![Screen Shot 2022-09-17 at 12 51 38 PM](https://user-images.githubusercontent.com/109354592/190870406-0fcc309d-23d1-4979-9a9a-71e6c1f0dd5d.png)
-![Screen Shot 2022-09-17 at 12 51 48 PM](https://user-images.githubusercontent.com/109354592/190870407-984e03bd-9b4b-4e9a-abe1-be466b66e906.png)
-![Screen Shot 2022-09-17 at 12 51 57 PM](https://user-images.githubusercontent.com/109354592/190870408-14ed9571-6005-4efb-9800-7092775072f9.png)
+![Screen Shot 2022-09-17 at 12 51 26 PM](https://user-images.githubusercontent.com/109354592/190870404-4da75c8e-9ac0-4742-811e-3f12f44bb480.png)![Screen Shot 2022-09-17 at 12 51 38 PM](https://user-images.githubusercontent.com/109354592/190870406-0fcc309d-23d1-4979-9a9a-71e6c1f0dd5d.png)![Screen Shot 2022-09-17 at 12 51 48 PM](https://user-images.githubusercontent.com/109354592/190870407-984e03bd-9b4b-4e9a-abe1-be466b66e906.png)![Screen Shot 2022-09-17 at 12 51 57 PM](https://user-images.githubusercontent.com/109354592/190870408-14ed9571-6005-4efb-9800-7092775072f9.png)
 
 ### Percent of Cloudiness & Wind Speed
 
